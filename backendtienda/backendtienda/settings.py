@@ -149,4 +149,4 @@ CORS_ALLOWED_ORIGINS = [
     config('FRONTENDLOCAL'),
 ]
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = [config('PAGINA')]
