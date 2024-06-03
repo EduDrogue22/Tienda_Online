@@ -15,6 +15,7 @@ Proyecto finalizado.
 - pip install coreschema
 - pip install django-cors-headers
 - pip install mysqlclient
+- pip install gunicorn
 
 ## Tecnologias
 ### Backend
